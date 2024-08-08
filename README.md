@@ -13,7 +13,7 @@
 - **Frontend:** Vite, React.js
 - **Styling:** Tailwind CSS
 - **API:** OpenWeather API
-- **Version Control:** Git, GitHub
+- **Version Control:** Git, GitHub, Vercel
 
 ## 🚀 Getting Started
 Could you clone the repository and follow the instructions below to get SkySage up and running on your local machine?
